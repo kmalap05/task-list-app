@@ -7,7 +7,7 @@ A simple task list web app where users can add, delete, and mark tasks as comple
 - ✅ Add new tasks  
 - ❌ Delete tasks  
 - 🎯 Mark tasks as completed  
-- 🔄 Persist tasks using local storage (if implemented)  
+- 🔄 Persist tasks using local storage
 
 ## 🛠️ Technologies Used
 
@@ -17,7 +17,7 @@ A simple task list web app where users can add, delete, and mark tasks as comple
 
 ## 📷 Screenshot
 
-![Task List App Screenshot](screenshot.png)  
+![Task List App Screenshot](https://prnt.sc/dRtg8MD8RGO-)
 
 ## 🏗️ Installation & Usage
 
